@@ -1,18 +1,144 @@
 {
   "licenses": {
-    "SP-CONTOH-0001": {
-      "owner": "Nama Pembeli",
+    "SP-K7XM-92QA": {
+      "owner": "Pembeli 01",
       "active": true,
-      "universeIds": [10765723946],
-      "expires": "2027-12-31",
-      "note": "dibeli 15 Okt 2026"
-    },
-    "SP-CONTOH-0002": {
-      "owner": "Pembeli Lain",
-      "active": false,
-      "universeIds": [9876543210],
+      "universeIds": [],
       "expires": "",
-      "note": "dicabut"
+      "note": "Lisensi 01"
+    },
+    "SP-V4NP-83LK": {
+      "owner": "Pembeli 02",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 02"
+    },
+    "SP-R9WT-26BY": {
+      "owner": "Pembeli 03",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 03"
+    },
+    "SP-H3QC-71ZM": {
+      "owner": "Pembeli 04",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 04"
+    },
+    "SP-N8DX-45PF": {
+      "owner": "Pembeli 05",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 05"
+    },
+    "SP-B6YR-19KV": {
+      "owner": "Pembeli 06",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 06"
+    },
+    "SP-T2LM-84JW": {
+      "owner": "Pembeli 07",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 07"
+    },
+    "SP-F5ZA-37RN": {
+      "owner": "Pembeli 08",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 08"
+    },
+    "SP-Q1GC-68VX": {
+      "owner": "Pembeli 09",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 09"
+    },
+    "SP-M9PK-52HD": {
+      "owner": "Pembeli 10",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 10"
+    },
+    "SP-W3NB-76TY": {
+      "owner": "Pembeli 11",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 11"
+    },
+    "SP-D8LF-24XQ": {
+      "owner": "Pembeli 12",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 12"
+    },
+    "SP-Y6RV-91CM": {
+      "owner": "Pembeli 13",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 13"
+    },
+    "SP-J2HZ-47WK": {
+      "owner": "Pembeli 14",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 14"
+    },
+    "SP-X5BT-38NP": {
+      "owner": "Pembeli 15",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 15"
+    },
+    "SP-C4QM-62YG": {
+      "owner": "Pembeli 16",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 16"
+    },
+    "SP-L7VK-15RD": {
+      "owner": "Pembeli 17",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 17"
+    },
+    "SP-G9JW-43ZA": {
+      "owner": "Pembeli 18",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 18"
+    },
+    "SP-P6XN-87LB": {
+      "owner": "Pembeli 19",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 19"
+    },
+    "SP-Z3HF-51MT": {
+      "owner": "Pembeli 20",
+      "active": true,
+      "universeIds": [],
+      "expires": "",
+      "note": "Lisensi 20"
     }
   }
 }
